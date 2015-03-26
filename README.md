@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/GunSik2/af-java-base.svg?branch=develop)](Dev https://travis-ci.org/GunSik2/af-java-base)
+[![Build Status](https://travis-ci.org/GunSik2/af-java-base.svg?branch=master)](Master https://travis-ci.org/GunSik2/af-java-base)
+
 Hello Java Sample
 =================
 
