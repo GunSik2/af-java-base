@@ -1,0 +1,15 @@
+language: java
+
+jdk:
+  - openjdk7
+  - oraclejdk7
+
+script:
+  mvn install
+
+after_success:
+  - chmod a+x deply.sh
+  - ./deploy.sh
+
+after_failure:
+  - echo "failed $(date)"
